@@ -1,0 +1,12 @@
+{
+  "num_days": 7,
+  "patients": [
+    "adolescent#001",
+    "adult#001",
+    "child#001"
+  ],
+  "base_seed": 42,
+  "sampling_minutes": 3,
+  "save_cgm": true,
+  "split_by_day": false
+}
