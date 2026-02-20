@@ -1,0 +1,7 @@
+Multi-Patient eDMDc Validation Report
+==================================================
+
+       patient  rank  spectral_radius  rmse_2h  rmse_6h  rmse_12h  controllability_rank  modal_max  modal_min  modal_ratio
+adolescent_001    21           0.9974  17.3700  18.8700   18.5700                    21    20.9000     0.0000       0.0000
+     adult_001    24           0.9881   5.1500  10.8800   14.8200                    24    42.4000     0.0495       0.0012
+     child_001    21           0.9764  38.3600  33.4500   27.8900                    21     4.7100     0.0000       0.0000

@@ -1,0 +1,4 @@
+patient,rank,spectral_radius,rmse_2h,rmse_6h,rmse_12h,controllability_rank,modal_max,modal_min,modal_ratio
+adolescent_001,21,0.997377,17.37,18.87,18.57,21,20.9,2.55e-14,1.22e-15
+adult_001,24,0.988076,5.15,10.88,14.82,24,42.4,0.0495,0.00117
+child_001,21,0.976389,38.36,33.45,27.89,21,4.71,1.45e-16,3.07e-17
