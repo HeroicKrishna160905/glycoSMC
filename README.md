@@ -106,16 +106,3 @@ Structural consistency observed across patients.
 
 ---
 
-## Repository Structure
-
-glycoSMC/
-│
-├── data/ # Patient CSV files (BG, insulin, meal)
-├── models/ # Saved identified models (.npz)
-├── results/ # Plots and validation reports
-├── notebooks/ # Jupyter exploration
-│
-├── edmdc_pipeline.py # Main identification pipeline
-├── multi_patient_validation.py # Multi-patient comparison script
-├── inspect_identified_model.py # Structural inspection script
-└── README.md
